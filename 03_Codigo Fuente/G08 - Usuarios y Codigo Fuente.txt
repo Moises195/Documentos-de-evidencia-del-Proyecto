@@ -1,0 +1,7 @@
+Turista:
+Codigo: 789485926
+Contraseña: carlos123
+
+Residente:
+Codigo: 95123647
+Contraseña: moi123
